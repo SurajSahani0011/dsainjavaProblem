@@ -1,0 +1,17 @@
+// package Linkedlist2;
+
+// public class p1LeangthOfLinklist {
+//     public static int length(Node head){
+
+//         int len = 0;
+//         Node temp = head;
+
+//         while (temp != null)
+//         {
+//             len++;
+//             temp = temp.next;
+//         }
+//         return len;
+//     }
+    
+// }
